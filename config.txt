@@ -1,6 +1,6 @@
 token=NDYzNTYxOTkzNTE3NzkzMjgy.DuWQ8g.QoX6sZpZud6Ez9R68h8u5p42ihw
-owner=323218000373350402
-prefix= A
-game= 3play l 3help
+owner=379212980946075648
+prefix= 5
+game= 5play , 5help
 stayinchannel=true هنا اذا تبيه يقعد في الروم ما يطلع خليه زي ما هو اذا ما تبيه خليه false
 songinstatus=false هنا اذا تبيه يكتب اسم الاغنية الي مشغلها البوت في البلايمج حقه اذا تبيها خليها true
